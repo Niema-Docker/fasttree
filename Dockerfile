@@ -1,5 +1,5 @@
 # Minimal Docker image for FastTree v2.1.11 using Alpine base
-FROM alpine:latest
+FROM alpine:3.13.5
 MAINTAINER Niema Moshiri <niemamoshiri@gmail.com>
 
 # install FastTree
